@@ -1,4 +1,4 @@
-# Introductory applied machine learning (INFR09029)
+# Introductory applied machine learning (INFR10069)
 
 # Setting up for DICE
 
