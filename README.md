@@ -19,6 +19,7 @@ Now open a terminal and follow these instructions. We are expecting you to enter
     * `pip install -U setuptools`  # The -U flag upgrades the current version
     * `pip install -U pip`
     * `pip install yolk`
+    * `pip install jupyter`
     * `pip install numpy`
     * `pip install scipy`
     * `pip install matplotlib`
