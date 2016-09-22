@@ -40,6 +40,7 @@ Now you have two options:
 
 1. We recommend that you directly download a .zip file from https://github.com/agamemnonc/iaml which will contain everything you need and save it in the folder you have just created. You can do this from the terminal by typing:
     * `wget https://github.com/agamemnonc/iaml/archive/master.zip`
+    * `unzip master.zip`
 2. If **and only if** you are familiar and confident with using Git/GitHub, you can initiliaze a git directory, add the above repo as remote and pull everything into your local directory. Please use this option only if you really know what you are doing. Unfortunately, we won't be able to provide you with Git/Github support if you run into issues with syncing and using version control in general. 
 
 Once you have downloaded the material, you are now ready to start working in the Jupyter environment. First you need to activate the `iaml_env` environment and start a Jupyter Notebook session from within the folder where the material is stored. **Note that you will have to follow this procedure for all labs and assignments.**
@@ -48,7 +49,7 @@ Once you have downloaded the material, you are now ready to start working in the
     * `cd`
     * `source virtualenvs/iaml_env/bin/activate` # Activates the environment
 2. Enter the directory you downloaded the course material
-    * `cd iaml_2016`
+    * `cd iaml_2016/iaml-master`
 3. Start a jupyter notebook
     * `jupyter notebook`
 4. This should automatically open your browser
